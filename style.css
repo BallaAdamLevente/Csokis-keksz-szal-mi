@@ -1,0 +1,30 @@
+body{
+    background-color: #6c321c;
+    color: #DACCA7;
+}
+
+nav a {
+    color: #6c321c; /* Példa: fekete szín */
+}
+.nav-link {
+    color: #6c321c; /* Példa: fekete szín */
+
+}
+footer{
+    color: #6c321c; /* Példa: fekete szín */
+    background-color: #DACCA7;
+    text-align: center;
+
+}
+nav a:hover {
+    color: #6c321c; 
+}
+
+.nav-link:hover {
+    color: #6c321c; 
+}
+
+img{
+    height: 270px;
+    width: 480px;
+}
